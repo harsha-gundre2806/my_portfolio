@@ -140,9 +140,7 @@ export default function Hero({ onOpenResume }) {
                     <div className="text-xs text-emerald-600 dark:text-emerald-400 font-mono mt-1">
                       SVU Computer Science • 8.6 CGPA
                     </div>
-                    <div className="mt-4 px-3 py-1.5 rounded-md bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-[11px] font-mono text-slate-500 dark:text-slate-400">
-                      Add <span className="font-semibold text-slate-800 dark:text-slate-200">pic.png</span> into public folder
-                    </div>
+                    
                   </div>
                 )}
 
@@ -158,10 +156,7 @@ export default function Hero({ onOpenResume }) {
                   <MapPin className="w-3.5 h-3.5 text-slate-400" />
                   <span>Tirupati, AP, India</span>
                 </div>
-                <div className="text-emerald-600 dark:text-emerald-400 font-mono text-[11px] font-semibold flex items-center gap-1">
-                  <ShieldCheck className="w-3.5 h-3.5" />
-                  <span>Verified Profile</span>
-                </div>
+                
               </div>
 
             </div>
