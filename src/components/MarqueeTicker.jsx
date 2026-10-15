@@ -3,17 +3,20 @@ import React from 'react';
 export default function MarqueeTicker() {
   const items = [
     "React.js",
+    "C",
+    "C++",
     "Tailwind CSS",
-    "JavaScript (ES6+)",
+    "JavaScript",
     "Data Structures & Algorithms",
     "Python",
     "Django",
-    "Firebase Realtime DB",
+    "Firebase DB",
     "CodeChef Problem Solver",
     "Pandas & NumPy",
     "Jupyter Notebook",
-    "Git & GitHub",
-    "REST APIs"
+    "Java",
+    "MySQL",
+    "GitHub",
   ];
 
   return (

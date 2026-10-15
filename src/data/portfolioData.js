@@ -173,7 +173,6 @@ export const skillCategories = [
       { name: "Jupyter Notebook", level: "Data Analysis", tag: "Workflow" },
       { name: "Vercel Deployment", level: "CI/CD & Hosting", tag: "DevOps" },
       { name: "Vite Build Tool", level: "Modern Bundler", tag: "Build" },
-      { name: "REST APIs Integration", level: "Data Consumption", tag: "Full-Stack" }
     ]
   }
 ];
