@@ -252,7 +252,7 @@ export default function ContactSection() {
                   <span>GitHub</span>
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/g-harsha-vardhan-reddy-23176b333/"
+                  href="https://www.linkedin.com/in/harsha-vardhan-reddy-g-23176b333/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-slate-900 dark:hover:text-white flex items-center gap-1 transition-colors"
