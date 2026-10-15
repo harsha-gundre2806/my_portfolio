@@ -92,8 +92,8 @@ export default function ResumeModal({ onClose }) {
               <a href="https://github.com/harsha-gundre2806" target="_blank" rel="noreferrer" className="text-emerald-600 dark:text-emerald-400 hover:underline">
                 github.com/harsha-gundre2806
               </a>
-              <a href="https://www.linkedin.com/in/g-harsha-vardhan-reddy-23176b333/" target="_blank" rel="noreferrer" className="text-emerald-600 dark:text-emerald-400 hover:underline">
-                linkedin.com/in/g-harsha-vardhan-reddy
+              <a href="https://www.linkedin.com/in/harsha-vardhan-reddy-g-23176b333/" target="_blank" rel="noreferrer" className="text-emerald-600 dark:text-emerald-400 hover:underline">
+                linkedin.com/in/harsha-vardhan-reddy-g-23176b333
               </a>
             </div>
           </div>
