@@ -171,7 +171,7 @@ export default function AboutSection() {
                   </span>
                   {languages.map((l, idx) => (
                     <div key={idx} className="flex items-center justify-between p-2.5 rounded-lg bg-slate-50 dark:bg-slate-850 border border-slate-100 dark:border-slate-800">
-                      <span className="font-medium text-xs text-slate-900 dark:text-white">{l.language}</span>
+                      <span className="font-medium text-xs text-slate-900 dark:text-black">{l.language}</span>
                       <span className="text-xs font-mono text-slate-500 dark:text-slate-400">
                         {l.proficiency}
                       </span>
